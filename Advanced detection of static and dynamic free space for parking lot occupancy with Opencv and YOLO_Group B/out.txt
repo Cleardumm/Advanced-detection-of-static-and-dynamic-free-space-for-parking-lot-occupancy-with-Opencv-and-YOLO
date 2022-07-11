@@ -1,0 +1,48 @@
+num1parking lot is free at52.51294,13.32872
+num3parking lot is free at52.5129,13.32829
+num5parking lot is free at52.51292,13.3282
+num9parking lot is free at52.51291,13.32804
+num13parking lot is free at52.51287,13.32788
+num16parking lot is free at52.51296,13.32775
+num18parking lot is free at52.51292,13.32767
+num20parking lot is free at52.513,13.32758
+num22parking lot is free at52.51305,13.3275
+num24parking lot is free at52.51317,13.32847
+num25parking lot is free at52.51316,13.32843
+num26parking lot is free at52.51316,13.32839
+num27parking lot is free at52.51317,13.32835
+num28parking lot is free at52.51316,13.32831
+num30parking lot is free at52.5131,13.32822
+num32parking lot is free at52.51316,13.32813
+num35parking lot is free at52.51311,13.3276
+num2parking lot is occupied at52.51294,13.32833
+num4parking lot is occupied at52.51291,13.32825
+num6parking lot is occupied at52.51289,13.32817
+num7parking lot is occupied at52.51294,13.32812
+num8parking lot is occupied at52.51289,13.32808
+num10parking lot is occupied at52.51284,13.328
+num11parking lot is occupied at52.51293,13.32796
+num12parking lot is occupied at52.51289,13.32792
+num14parking lot is occupied at52.51296,13.32783
+num15parking lot is occupied at52.5129,13.32779
+num17parking lot is occupied at52.51292,13.32771
+num19parking lot is occupied at52.51298,13.32763
+num21parking lot is occupied at52.51302,13.32754
+num23parking lot is occupied at52.51285,13.32747
+num29parking lot is occupied at52.51309,13.32826
+num31parking lot is occupied at52.51313,13.32818
+num33parking lot is occupied at52.51305,13.32769
+num34parking lot is occupied at52.51306,13.32764
+Parking space from52.51303,13.32849to52.51303,13.32847 enough for 1 Motorcycle 0 Car
+Parking space from52.51303,13.32836to52.51303,13.32828 enough for 5 Motorcycle 2 Car
+Parking space from52.51303,13.32824to52.51303,13.32822 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32818to52.51303,13.32811 enough for 3 Motorcycle 1 Car
+Parking space from52.51303,13.32807to52.51303,13.328 enough for 4 Motorcycle 1 Car
+Parking space from52.51303,13.32795to52.51303,13.32795 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32791to52.51303,13.32791 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32786to52.51303,13.32786 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32782to52.51303,13.3278 enough for 1 Motorcycle 0 Car
+Parking space from52.51303,13.32776to52.51303,13.32775 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32771to52.51303,13.3277 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32765to52.51303,13.32764 enough for 0 Motorcycle 0 Car
+Parking space from52.51303,13.32759to52.51303,13.32754 enough for 3 Motorcycle 1 Car
